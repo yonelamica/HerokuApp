@@ -32,7 +32,7 @@ A practical QA automation project built with **Playwright and JavaScript** to de
 
 Tests are organised using Playwright tags:
 
-
+```
 @smoke
 @regression
 @negative
